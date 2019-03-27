@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.hamelmoon.spring.cloud.sleuth.zipkin.kafka.reporter.ZipkinKafkaReporterAutoConfigure
